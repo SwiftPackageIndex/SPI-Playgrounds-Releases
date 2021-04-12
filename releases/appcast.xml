@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SPI-Playgrounds</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 12 Apr 2021 14:05:18 +0200</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds-0.1.0.app.zip" sparkle:version="114" sparkle:shortVersionString="0.1.0" length="9258971" type="application/octet-stream" sparkle:edSignature="7b6FObwVF4JfHpP//w6wAyABAp0eSYGT2m210XORDG/OwuAFLmwU+UkYxzsg3tJemsaQHfVFuRixxoUhWfcxDQ=="/>
+        </item>
+    </channel>
+</rss>
