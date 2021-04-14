@@ -8,5 +8,14 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds-0.1.0.app.zip" sparkle:version="114" sparkle:shortVersionString="0.1.0" length="9258971" type="application/octet-stream" sparkle:edSignature="7b6FObwVF4JfHpP//w6wAyABAp0eSYGT2m210XORDG/OwuAFLmwU+UkYxzsg3tJemsaQHfVFuRixxoUhWfcxDQ=="/>
         </item>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 14 Apr 2021 13:38:59 +0200</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds-0.2.0.app.zip" sparkle:version="129" sparkle:shortVersionString="0.2.0" length="9258732" type="application/octet-stream" sparkle:edSignature="YOIdTIrXszBp4fWgb25DtuE24pDZiJmZ/L4UzE/tH6EdPkOEXYypmAfzQjBaUa4poscE+kC3jd4wJkuZ3p1EAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds129-114.delta" sparkle:version="129" sparkle:shortVersionString="0.2.0" sparkle:deltaFrom="114" length="73050" type="application/octet-stream" sparkle:edSignature="hNpWcABy5TdZD0BTy+8IIn88AH4DoPA9CQAslGZK/YIk7MxMPS8+vyoHGc0VeDeUYqqs28bC+7Glw5rC9QFqAg=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
