@@ -26,6 +26,28 @@
                 <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds132-129.delta" sparkle:version="132" sparkle:shortVersionString="0.3.0" sparkle:deltaFrom="129" length="60560" type="application/octet-stream" sparkle:edSignature="coI2xmpXFA/nuIL52qEbXzYGEXlw+jiNBx8OKCTukdO2Y0E1RhPmhuZLJHDZFBJq9EB8hpqScQ0Pbix9QOq8Bw=="/>
                 <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds132-114.delta" sparkle:version="132" sparkle:shortVersionString="0.3.0" sparkle:deltaFrom="114" length="74107" type="application/octet-stream" sparkle:edSignature="/TXEst8HYg93KMmIhQG4tPaHz0dS/nkgFs0257snqT5lbw2cOMIlkC0KWr4oqPKXurfYEQEZllyas0OxFzCYDw=="/>
             </sparkle:deltas>
+            <description><![CDATA[<h1>SPI-Playgrounds Release Notes</h1>
+
+<h2>0.3.0</h2>
+
+<ul>
+	<li>Support for universal links</li>
+</ul>
+
+<h2>0.2.0</h2>
+
+<ul>
+	<li>Improved error handling</li>
+</ul>
+
+<h2>0.1.0</h2>
+
+<ul>
+	<li>Initial release</li>
+</ul>
+
+
+]]></description>
         </item>
     </channel>
 </rss>
