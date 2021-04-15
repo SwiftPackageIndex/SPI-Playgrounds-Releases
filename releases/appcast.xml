@@ -49,5 +49,45 @@
 
 ]]></description>
         </item>
+        <item>
+            <title>0.4.0</title>
+            <pubDate>Thu, 15 Apr 2021 16:09:16 +0200</pubDate>
+            <description><![CDATA[<h1>SPI-Playgrounds Release Notes</h1>
+
+<h2>0.4.0</h2>
+
+<ul>
+	<li>Default folder name to repository name</li>
+	<li>Run Arena on background queue</li>
+</ul>
+
+<h2>0.3.0</h2>
+
+<ul>
+	<li>Support for universal links</li>
+</ul>
+
+<h2>0.2.0</h2>
+
+<ul>
+	<li>Improved error handling</li>
+</ul>
+
+<h2>0.1.0</h2>
+
+<ul>
+	<li>Initial release</li>
+</ul>
+
+
+]]></description>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds-0.4.0.app.zip" sparkle:version="142" sparkle:shortVersionString="0.4.0" length="9257393" type="application/octet-stream" sparkle:edSignature="r603/4wTQ1I+OqT8WB8JrVlpU0BbIbRw3j8EtwJlXFqtuRrws5kpLl5y2ngG8qwOFxO6fjPxSx1j87n2czQ2Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds142-132.delta" sparkle:version="142" sparkle:shortVersionString="0.4.0" sparkle:deltaFrom="132" length="127863" type="application/octet-stream" sparkle:edSignature="WzSe9czUYv07QK6DC7pUK5XEdtru4UQDgTb2yk/aSCsvOI+ppl8wAUGvtWTz0rpdsegLukhzI9MhFQupI8eLDg=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds142-129.delta" sparkle:version="142" sparkle:shortVersionString="0.4.0" sparkle:deltaFrom="129" length="140858" type="application/octet-stream" sparkle:edSignature="o58UdmXOKPoAlhBz3KZUGz/WwfRt/HcEilj1quU6Glu5Pt/0YizvP+T+GIzh1PT+aXAOtOsaiOdnK0pc8KMnCg=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds142-114.delta" sparkle:version="142" sparkle:shortVersionString="0.4.0" sparkle:deltaFrom="114" length="139446" type="application/octet-stream" sparkle:edSignature="F8gAQMjdbaXMIfSy41zdhnU/oTOJ2qPf5yUV/dmQ5pvj8W3JTMZJ3vqlfLfsQ2NJEpMk/PQ49Jz9IamZ362oCA=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
