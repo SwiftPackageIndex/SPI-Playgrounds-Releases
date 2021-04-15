@@ -4,8 +4,8 @@
 - Archive
 - In Organizer: "Distribute App" -> "Developer ID" -> "Upload" -> "Automatically manage signing" -> "Upload"
 - After notarized → "Export Notarized App"
-- Finder → compress → rename `SPI-Playgrounds-x.y.x.zip`
-- Move into releases folder in this repository
-- Run `make appcast`
-- Commit changes "Release x.y.z"
+- Run `make release VERSION=x.y.z` or step by step
+  - Run `make zip VERSION=x.y.z` to compress the app bundle and copy it to `./releases` (leaving `SPI-Playgrounds.app.zip` at the top level to provide a stable download link)
+  - Run `make appcast` to update the appcast
+  - Run `make commit VERSION=x.y.z` to commit the changes
 - Push to release
