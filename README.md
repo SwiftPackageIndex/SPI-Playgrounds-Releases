@@ -3,7 +3,7 @@
 - Tag
 - Archive
 - In Organizer: "Distribute App" -> "Developer ID" -> "Upload" -> "Automatically manage signing" -> "Upload"
-- After notarized → "Export Notarized App"
+- After notarized → "Export Notarized App" and place it _at the top level_ of this repository
 - Run `make release VERSION=x.y.z` or step by step
   - Run `make zip VERSION=x.y.z` to compress the app bundle and copy it to `./releases` (leaving `SPI-Playgrounds.app.zip` at the top level to provide a stable download link)
   - Run `make appcast` to update the appcast
