@@ -9,3 +9,7 @@
   - Run `make appcast` to update the appcast
   - Run `make commit VERSION=x.y.z` to commit the changes
 - Push to release
+
+The download link for the latest release is
+
+https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/SPI-Playgrounds.app.zip
