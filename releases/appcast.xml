@@ -89,5 +89,50 @@
                 <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds142-114.delta" sparkle:version="142" sparkle:shortVersionString="0.4.0" sparkle:deltaFrom="114" length="139446" type="application/octet-stream" sparkle:edSignature="F8gAQMjdbaXMIfSy41zdhnU/oTOJ2qPf5yUV/dmQ5pvj8W3JTMZJ3vqlfLfsQ2NJEpMk/PQ49Jz9IamZ362oCA=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>0.4.1</title>
+            <pubDate>Tue, 20 Apr 2021 12:04:56 +0200</pubDate>
+            <description><![CDATA[<h3>0.4.1</h3>
+
+<ul>
+	<li>Update to Arena 1.2.1</li>
+</ul>
+
+<h3>0.4.0</h3>
+
+<ul>
+	<li>Default folder name to repository name</li>
+	<li>Run Arena on background queue</li>
+</ul>
+
+<h3>0.3.0</h3>
+
+<ul>
+	<li>Support for universal links</li>
+</ul>
+
+<h3>0.2.0</h3>
+
+<ul>
+	<li>Improved error handling</li>
+</ul>
+
+<h3>0.1.0</h3>
+
+<ul>
+	<li>Initial release</li>
+</ul>
+
+
+]]></description>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds-0.4.1.app.zip" sparkle:version="144" sparkle:shortVersionString="0.4.1" length="9288445" type="application/octet-stream" sparkle:edSignature="7ceR0b6WbEuc4oxTaXBm3sH5Q9W5aPULQJTvkgIRM11ekdNoRkfcOMDiuHX30rLy/XQeu6mMEvawuybLJw6hDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds144-142.delta" sparkle:version="144" sparkle:shortVersionString="0.4.1" sparkle:deltaFrom="142" length="915310" type="application/octet-stream" sparkle:edSignature="PH7XmK840hhDvAZ5zYzgLrWbhNIc0QUsh0zNE2QriOEaWyJFmUnYQUNQt00xtopdB3M3lYD1bKV2F02WwtTHAA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds144-132.delta" sparkle:version="144" sparkle:shortVersionString="0.4.1" sparkle:deltaFrom="132" length="1004177" type="application/octet-stream" sparkle:edSignature="LHqpwszpXMMJgCvz0FtPAbLrP9AiEohGCTvDAp4IqKTFplmwgDUEI1FDUyEXRGS485JG08Dj39H6nQiXWgspBA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds144-129.delta" sparkle:version="144" sparkle:shortVersionString="0.4.1" sparkle:deltaFrom="129" length="1015108" type="application/octet-stream" sparkle:edSignature="tLBFwHvSmuaBnBsSsRHUugtt2SVGBH33Bm6aqIETSSAqeA2M3zfBqgGVLs9J+9NnCItGP7y7Pv3RkOBlofV/AQ=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds144-114.delta" sparkle:version="144" sparkle:shortVersionString="0.4.1" sparkle:deltaFrom="114" length="1015855" type="application/octet-stream" sparkle:edSignature="8BnHp9TG5WzH+lZ2zfY+qxGZNQRIPsBiYc95JsV43Clg4bX8TLDCfzwFqgW2UdqacoYDORQB9/0/jjxNy03zCQ=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
