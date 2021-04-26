@@ -1,3 +1,6 @@
+### 0.5.1
+- Updated URL types
+
 ### 0.5.0
 - Changed bundle id to com.swiftpackageindex.spi-playgrounds
 - Add SPI branding
