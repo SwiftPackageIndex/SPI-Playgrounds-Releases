@@ -1,3 +1,6 @@
+### 0.5.2
+- Updated signing
+
 ### 0.5.1
 - Updated URL types
 

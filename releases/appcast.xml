@@ -249,5 +249,72 @@
                 <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds169-114.delta" sparkle:version="169" sparkle:shortVersionString="0.5.1" sparkle:deltaFrom="114" length="1343634" type="application/octet-stream" sparkle:edSignature="fnXwDkVtaCLr+DKdxtQd0U9Q6rUp8ezsMrLdBIXG+a3DF7NXIcpwU2eJTmzD9KtG2aZsS/qR5qUjKjmep1OuBQ=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>0.5.2</title>
+            <pubDate>Mon, 26 Apr 2021 13:59:17 +0200</pubDate>
+            <description><![CDATA[<h3>0.5.2</h3>
+
+<ul>
+	<li>Update signing</li>
+</ul>
+
+<h3>0.5.1</h3>
+
+<ul>
+	<li>Updated URL types</li>
+</ul>
+
+<h3>0.5.0</h3>
+
+<ul>
+	<li>Changed bundle id to com.swiftpackageindex.spi-playgrounds</li>
+	<li>Add SPI branding</li>
+	<li>Updated onboarding view</li>
+</ul>
+
+<h3>0.4.1</h3>
+
+<ul>
+	<li>Update to Arena 1.2.1</li>
+</ul>
+
+<h3>0.4.0</h3>
+
+<ul>
+	<li>Default folder name to repository name</li>
+	<li>Run Arena on background queue</li>
+</ul>
+
+<h3>0.3.0</h3>
+
+<ul>
+	<li>Support for universal links</li>
+</ul>
+
+<h3>0.2.0</h3>
+
+<ul>
+	<li>Improved error handling</li>
+</ul>
+
+<h3>0.1.0</h3>
+
+<ul>
+	<li>Initial release</li>
+</ul>
+
+
+]]></description>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds-0.5.2.app.zip" sparkle:version="174" sparkle:shortVersionString="0.5.2" length="9315823" type="application/octet-stream" sparkle:edSignature="Ay32LEcYPuGhIaJ4ts0ZMVjHI3uoQSYiLNO7faD1uOn06TKFVkB6BK6BiWVGXMZTWPMS8RzxS/6DqAxPQUMnBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds174-169.delta" sparkle:version="174" sparkle:shortVersionString="0.5.2" sparkle:deltaFrom="169" length="4719884" type="application/octet-stream" sparkle:edSignature="i6cbiKInHhtrvjASLF2LnTsmlQZmJ2OXBjHox8QtwX9WqKz9cWYzbMa18eX+snAnEO99Ehn8dmFSiIkSn598CA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds174-167.delta" sparkle:version="174" sparkle:shortVersionString="0.5.2" sparkle:deltaFrom="167" length="4725545" type="application/octet-stream" sparkle:edSignature="z2AgaKjMDOw1AygARWnn9VXygwqgRbh19VL5nY/gev+FbFakIdl0p5NBbzndhxWWlsli0bW3YszCNy613/6sCw=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds174-144.delta" sparkle:version="174" sparkle:shortVersionString="0.5.2" sparkle:deltaFrom="144" length="5051925" type="application/octet-stream" sparkle:edSignature="OKytplvYTeTx2LqYUUKkSPd1dS/GJKIPd1c4HTafmXChR3A/sR8lK8A6JjoU7vUt2BI/rmsa0ojxd/cDVRBuCA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds174-142.delta" sparkle:version="174" sparkle:shortVersionString="0.5.2" sparkle:deltaFrom="142" length="5079901" type="application/octet-stream" sparkle:edSignature="JImZjjgM8f12Kzhdsc8/vzB868tCwq76GYmuPzxoVVE+orLXkBUL6/hz9O3jyCZWtuFwuyVADEA6IWvs13zkBg=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds174-132.delta" sparkle:version="174" sparkle:shortVersionString="0.5.2" sparkle:deltaFrom="132" length="5104609" type="application/octet-stream" sparkle:edSignature="oZHZ1RgfoXwSmNRRuwNuUOCR4svZ0XkfsPTfGBWlG71O5Vy/tbUMhGGwU4ClHHEH8kjSLt3kdXznVUCEZkwCBg=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds174-129.delta" sparkle:version="174" sparkle:shortVersionString="0.5.2" sparkle:deltaFrom="129" length="5108978" type="application/octet-stream" sparkle:edSignature="cAjvQpMBDunsVUEPQwEWb+VFx/sCLhLe/xDqq5bAVr3Ejo+41XJPU3My7XOQFy8LTF104kTtuc1uw88CUqM0BA=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
