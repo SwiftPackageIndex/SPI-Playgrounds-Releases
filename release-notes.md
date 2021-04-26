@@ -1,3 +1,8 @@
+### 0.5.0
+- Changed bundle id to com.swiftpackageindex.spi-playgrounds
+- Add SPI branding
+- Updated onboarding view
+
 ### 0.4.1
 - Update to Arena 1.2.1
 
