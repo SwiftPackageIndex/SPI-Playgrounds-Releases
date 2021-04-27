@@ -316,5 +316,78 @@
                 <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds174-129.delta" sparkle:version="174" sparkle:shortVersionString="0.5.2" sparkle:deltaFrom="129" length="5108978" type="application/octet-stream" sparkle:edSignature="cAjvQpMBDunsVUEPQwEWb+VFx/sCLhLe/xDqq5bAVr3Ejo+41XJPU3My7XOQFy8LTF104kTtuc1uw88CUqM0BA=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>0.5.3</title>
+            <pubDate>Tue, 27 Apr 2021 13:55:32 +0200</pubDate>
+            <description><![CDATA[<h3>0.5.3</h3>
+
+<ul>
+	<li>Fixed main window resizing</li>
+</ul>
+
+<h3>0.5.2</h3>
+
+<ul>
+	<li>Updated signing</li>
+</ul>
+
+<h3>0.5.1</h3>
+
+<ul>
+	<li>Updated URL types</li>
+</ul>
+
+<h3>0.5.0</h3>
+
+<ul>
+	<li>Changed bundle id to com.swiftpackageindex.spi-playgrounds</li>
+	<li>Add SPI branding</li>
+	<li>Updated onboarding view</li>
+</ul>
+
+<h3>0.4.1</h3>
+
+<ul>
+	<li>Update to Arena 1.2.1</li>
+</ul>
+
+<h3>0.4.0</h3>
+
+<ul>
+	<li>Default folder name to repository name</li>
+	<li>Run Arena on background queue</li>
+</ul>
+
+<h3>0.3.0</h3>
+
+<ul>
+	<li>Support for universal links</li>
+</ul>
+
+<h3>0.2.0</h3>
+
+<ul>
+	<li>Improved error handling</li>
+</ul>
+
+<h3>0.1.0</h3>
+
+<ul>
+	<li>Initial release</li>
+</ul>
+
+
+]]></description>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds-0.5.3.app.zip" sparkle:version="177" sparkle:shortVersionString="0.5.3" length="9578956" type="application/octet-stream" sparkle:edSignature="f8Hu8F8a44jq4yKFfMgBljLtlXKTS/NT7R1bXXFUIqraMZ+4TqHpekRtLLEV4SJRK2GOZSUMKDhPB3kERBR1Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds177-174.delta" sparkle:version="177" sparkle:shortVersionString="0.5.3" sparkle:deltaFrom="174" length="4961228" type="application/octet-stream" sparkle:edSignature="6i+ILzVnCBTyTmPeLid8VPBmag/Rc2lvj0lrRql9yLrdTye0mSSlqsEgf1ZKCeJYoxoO6f5eQunxPZgQgvR5DQ=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds177-169.delta" sparkle:version="177" sparkle:shortVersionString="0.5.3" sparkle:deltaFrom="169" length="113084" type="application/octet-stream" sparkle:edSignature="MsoMEUiqW4sa7rF76286BrbtT+2upTlzqD8M5SPYlPTCbiVH3UrqLIT9YpRm1j0xqXPnKa6aetlbIw0J8pcuAg=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds177-167.delta" sparkle:version="177" sparkle:shortVersionString="0.5.3" sparkle:deltaFrom="167" length="118092" type="application/octet-stream" sparkle:edSignature="RqrtwichcaUvcb9IYW9Mo5Idby7qzZY/rXEEwCw7K2JCEjCj+kShfYdKEFB1tWXj4TKC4S7L/flmQjkuTPJ1BQ=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds177-144.delta" sparkle:version="177" sparkle:shortVersionString="0.5.3" sparkle:deltaFrom="144" length="466618" type="application/octet-stream" sparkle:edSignature="tlAWQ6jg+p9acFkAgtiNLMTVaFAAQSqgKhyAWeObwuorTQN7CoF81JxwURyZFJ0LXH345G59vp2DhIGLjY9LDA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds177-142.delta" sparkle:version="177" sparkle:shortVersionString="0.5.3" sparkle:deltaFrom="142" length="1336902" type="application/octet-stream" sparkle:edSignature="1YravC4dKsf4hZfcBJn91x5W1h0ZH18YbYCdtc2nGSJm3QI4Hj6ykWbLyMnHgzUZa0hdR+7ORFPwumzegaqYAQ=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds177-132.delta" sparkle:version="177" sparkle:shortVersionString="0.5.3" sparkle:deltaFrom="132" length="1369350" type="application/octet-stream" sparkle:edSignature="AEaIUal0oB9rp2gFdVtPMTVYEdfAA9h8wUVdNL7W1CsTYkEevNMLS+fPVgbVpEa3gheIWcvCZFB8LcmLZN6TCQ=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>

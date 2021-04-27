@@ -1,3 +1,6 @@
+### 0.5.3
+- Fixed main window resizing
+
 ### 0.5.2
 - Updated signing
 
