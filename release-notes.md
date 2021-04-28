@@ -1,3 +1,6 @@
+### 0.6.0
+- Every app needs an icon!
+
 ### 0.5.3
 - Fixed main window resizing
 

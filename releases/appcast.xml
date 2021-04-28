@@ -389,5 +389,84 @@
                 <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds177-132.delta" sparkle:version="177" sparkle:shortVersionString="0.5.3" sparkle:deltaFrom="132" length="1369350" type="application/octet-stream" sparkle:edSignature="AEaIUal0oB9rp2gFdVtPMTVYEdfAA9h8wUVdNL7W1CsTYkEevNMLS+fPVgbVpEa3gheIWcvCZFB8LcmLZN6TCQ=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>0.6.0</title>
+            <pubDate>Wed, 28 Apr 2021 10:38:54 +0200</pubDate>
+            <description><![CDATA[<h3>0.6.0</h3>
+
+<ul>
+	<li>Every app needs an icon!</li>
+</ul>
+
+<h3>0.5.3</h3>
+
+<ul>
+	<li>Fixed main window resizing</li>
+</ul>
+
+<h3>0.5.2</h3>
+
+<ul>
+	<li>Updated signing</li>
+</ul>
+
+<h3>0.5.1</h3>
+
+<ul>
+	<li>Updated URL types</li>
+</ul>
+
+<h3>0.5.0</h3>
+
+<ul>
+	<li>Changed bundle id to com.swiftpackageindex.spi-playgrounds</li>
+	<li>Add SPI branding</li>
+	<li>Updated onboarding view</li>
+</ul>
+
+<h3>0.4.1</h3>
+
+<ul>
+	<li>Update to Arena 1.2.1</li>
+</ul>
+
+<h3>0.4.0</h3>
+
+<ul>
+	<li>Default folder name to repository name</li>
+	<li>Run Arena on background queue</li>
+</ul>
+
+<h3>0.3.0</h3>
+
+<ul>
+	<li>Support for universal links</li>
+</ul>
+
+<h3>0.2.0</h3>
+
+<ul>
+	<li>Improved error handling</li>
+</ul>
+
+<h3>0.1.0</h3>
+
+<ul>
+	<li>Initial release</li>
+</ul>
+
+
+]]></description>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds-0.6.0.app.zip" sparkle:version="179" sparkle:shortVersionString="0.6.0" length="10197706" type="application/octet-stream" sparkle:edSignature="a1Q9wUHFGfZ0tVwMpEchqeS4aFjP+GgcEpFNpI+a+XiJ7jzy+Z5Cgx4GW3MnuVz+kYePVATj7i6eb1hq86hBBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds179-177.delta" sparkle:version="179" sparkle:shortVersionString="0.6.0" sparkle:deltaFrom="177" length="677009" type="application/octet-stream" sparkle:edSignature="DibtIJ83JvqfbZw2J3xrSp/6LnCzFwjY1joIpOYXFc8INOmcFuIn2Oq5+/6+3JGvo2nsn1/aMKYPkPvzKS04Ag=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds179-174.delta" sparkle:version="179" sparkle:shortVersionString="0.6.0" sparkle:deltaFrom="174" length="5588730" type="application/octet-stream" sparkle:edSignature="jCg5H6q8H0ZpKueROBrqcP4aCxYjupBM0a46zJiHhXi+MHq6Z5tPm5u4UgCNRQN1hBUgdusS/0Yul9mwRlBEBA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds179-169.delta" sparkle:version="179" sparkle:shortVersionString="0.6.0" sparkle:deltaFrom="169" length="739912" type="application/octet-stream" sparkle:edSignature="SRv/DGhVf6o+ckH6e4A9UpXOUiN7JW/GQjxPAAcIlMV0/RNsu9bxywhrqyyAOnakZvKMCPzNWaOOpFYxD4mQAA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds179-167.delta" sparkle:version="179" sparkle:shortVersionString="0.6.0" sparkle:deltaFrom="167" length="742715" type="application/octet-stream" sparkle:edSignature="TugLU8IyaMmWqg8HVcoOV63I6N7cc6mXEJRxnzl5n2uz9Ah5mcvaOpwNIYgcittECagxcnMTaEPrwCutB9JUCA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds179-144.delta" sparkle:version="179" sparkle:shortVersionString="0.6.0" sparkle:deltaFrom="144" length="1092733" type="application/octet-stream" sparkle:edSignature="ikhl6+ZpbR8IK0fHE+kehe4h8aSIM+rBBQhjSgkAkJCdKvrLbYEo+Lrz6CGud/lG+qcfjkX9ZyT0kBanFHrwDg=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds179-142.delta" sparkle:version="179" sparkle:shortVersionString="0.6.0" sparkle:deltaFrom="142" length="1965983" type="application/octet-stream" sparkle:edSignature="0inU+kFU/ZW7pTQ2AQaWzxDE+fWwxi8TFxoMefGDI0seWHhDyCaZFRyPHuZ+NDGuRWpZZgGYiEDGGrQKMGdpBg=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
