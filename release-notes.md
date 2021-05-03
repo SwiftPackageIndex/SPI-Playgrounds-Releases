@@ -1,3 +1,7 @@
+### 0.7.0
+- Updated Arena
+- Added button animation
+
 ### 0.6.0
 - Every app needs an icon!
 
