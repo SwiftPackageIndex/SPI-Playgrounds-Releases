@@ -1,5 +1,5 @@
 ---
-title: SPI-Playgrounds – Release Notes
+title: SPI Playgrounds – Release Notes
 ---
 
 <section>
