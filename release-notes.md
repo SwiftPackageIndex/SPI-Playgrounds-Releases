@@ -1,3 +1,7 @@
+---
+title: SPI-Playgrounds – Release Notes
+---
+
 ### 0.7.0
 - Updated Arena
 - Added button animation
