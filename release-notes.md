@@ -2,39 +2,54 @@
 title: SPI-Playgrounds – Release Notes
 ---
 
-### 0.7.0
-- Updated Arena
-- Added button animation
+<section>
 
-### 0.6.0
+## 0.7.0
+
+- Updated Arena to the latest version.
+- Added hover and click animation to the buttons.
+
+## 0.6.0
+
 - Every app needs an icon!
 
-### 0.5.3
-- Fixed main window resizing
+## 0.5.3
 
-### 0.5.2
-- Updated signing
+- Fixed the main window resizing.
 
-### 0.5.1
-- Updated URL types
+## 0.5.2
 
-### 0.5.0
-- Changed bundle id to com.swiftpackageindex.spi-playgrounds
-- Add SPI branding
-- Updated onboarding view
+- Updated code signing.
 
-### 0.4.1
-- Update to Arena 1.2.1
+## 0.5.1
 
-### 0.4.0
-- Default folder name to repository name
-- Run Arena on background queue
+- Updated URL types.
 
-### 0.3.0
-- Support for universal links
+## 0.5.0
 
-### 0.2.0
-- Improved error handling
+- Changed bundle id to com.swiftpackageindex.spi-playgrounds.
+- Add Swift Package Index branding.
+- Updated the onboarding view.
 
-### 0.1.0
-- Initial release
+## 0.4.1
+
+- Update to Arena 1.2.1.
+
+## 0.4.0
+
+- Set a default folder name based on the repository name when creating a plaground.
+- Run playground generation on a background queue.
+
+## 0.3.0
+
+- Support for universal links.
+
+## 0.2.0
+
+- Improved error handling.
+
+## 0.1.0
+
+- Initial release.
+
+</section>
