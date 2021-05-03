@@ -554,5 +554,97 @@
                 <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds187-144.delta" sparkle:version="187" sparkle:shortVersionString="0.7.0" sparkle:deltaFrom="144" length="5935540" type="application/octet-stream" sparkle:edSignature="Zl3nKjVzYmAT0FI6HkhrXzdTsQ9N1tzjEaX/o2xkFNw/I9ucifEq/exkOv9eND+XClJH/YtTMiMtq7pm9CQ7Bg=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 03 May 2021 20:43:22 +0200</pubDate>
+            <description><![CDATA[<h2>1.0.0</h2>
+
+<ul>
+	<li>Initial public release 🚀🎉.</li>
+</ul>
+
+<h3>0.7.0</h3>
+
+<ul>
+	<li>Updated Arena</li>
+	<li>Added button animation</li>
+</ul>
+
+<h3>0.6.0</h3>
+
+<ul>
+	<li>Every app needs an icon!</li>
+</ul>
+
+<h3>0.5.3</h3>
+
+<ul>
+	<li>Fixed main window resizing</li>
+</ul>
+
+<h3>0.5.2</h3>
+
+<ul>
+	<li>Updated signing</li>
+</ul>
+
+<h3>0.5.1</h3>
+
+<ul>
+	<li>Updated URL types</li>
+</ul>
+
+<h3>0.5.0</h3>
+
+<ul>
+	<li>Changed bundle id to com.swiftpackageindex.spi-playgrounds</li>
+	<li>Add SPI branding</li>
+	<li>Updated onboarding view</li>
+</ul>
+
+<h3>0.4.1</h3>
+
+<ul>
+	<li>Update to Arena 1.2.1</li>
+</ul>
+
+<h3>0.4.0</h3>
+
+<ul>
+	<li>Default folder name to repository name</li>
+	<li>Run Arena on background queue</li>
+</ul>
+
+<h3>0.3.0</h3>
+
+<ul>
+	<li>Support for universal links</li>
+</ul>
+
+<h3>0.2.0</h3>
+
+<ul>
+	<li>Improved error handling</li>
+</ul>
+
+<h3>0.1.0</h3>
+
+<ul>
+	<li>Initial release</li>
+</ul>
+
+
+]]></description>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI-Playgrounds-1.0.0.app.zip" sparkle:version="189" sparkle:shortVersionString="1.0.0" length="10008850" type="application/octet-stream" sparkle:edSignature="uIaITa6FkjbYsb6NJWGARgDJmkgc7wjgtf/s1nDHJA/6+bbSRQuw2U1MDjbMJVLkR9Aj3Y8RYGRcQI7U8bMzAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI%20Playgrounds189-187.delta" sparkle:version="189" sparkle:shortVersionString="1.0.0" sparkle:deltaFrom="187" length="76709" type="application/octet-stream" sparkle:edSignature="m5O2fGqZJP37/vw6Op44oFtZ/r/aNUic13jDP3VgwCrEOt1gTJuXcHJTMLhmAruKCq77ZAMZnmCNiVX2CE7NCg=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI%20Playgrounds189-179.delta" sparkle:version="189" sparkle:shortVersionString="1.0.0" sparkle:deltaFrom="179" length="4990753" type="application/octet-stream" sparkle:edSignature="tVn1mz+GHkyZeTZD/Xin8Kq7PFCSJAHsMoW54XIc3ij38L27TPo40/La0GsdIsA8tUZwb2UwXOQEXuzgVnzFDA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI%20Playgrounds189-177.delta" sparkle:version="189" sparkle:shortVersionString="1.0.0" sparkle:deltaFrom="177" length="5618255" type="application/octet-stream" sparkle:edSignature="MBwBGrV0cnHrrBGyj3et/CxlsfFGyTX2ojMAv8saca7V+q5zlStRK/l8CheHuL+tpc+FEyFSwDmCzPKBzwbGAA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI%20Playgrounds189-174.delta" sparkle:version="189" sparkle:shortVersionString="1.0.0" sparkle:deltaFrom="174" length="2371268" type="application/octet-stream" sparkle:edSignature="B9FGUEGPDTDii0VA4kV4s7dVp26zf0LSsoTrpE6RkIUeuzmEhHOnqqORadkJVdZL/ckU9UcalmkdpjnivGDFCw=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI%20Playgrounds189-169.delta" sparkle:version="189" sparkle:shortVersionString="1.0.0" sparkle:deltaFrom="169" length="5639173" type="application/octet-stream" sparkle:edSignature="7uLhWAqtBDBaQkZWtjij1Bdef21+gA8HyHtqnCOnjOfpoHxz0RC8JcJzLUgx4qYB4E+6DKSZQgNl/8OjsavQDA=="/>
+                <enclosure url="https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases/raw/main/releases/SPI%20Playgrounds189-167.delta" sparkle:version="189" sparkle:shortVersionString="1.0.0" sparkle:deltaFrom="167" length="5637375" type="application/octet-stream" sparkle:edSignature="oMnFPtk1+8oa39djJ1eohOJt5UB3RTLYFamG4FTtke3rrsWu+Cg3+s4taFEFXKiLsQuX+3b4cOAiBep/fB7aBg=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>

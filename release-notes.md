@@ -1,3 +1,6 @@
+## 1.0.0
+- Initial public release 🚀🎉.
+
 ### 0.7.0
 - Updated Arena
 - Added button animation
