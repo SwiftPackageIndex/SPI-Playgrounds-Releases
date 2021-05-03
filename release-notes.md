@@ -4,6 +4,10 @@ title: SPI Playgrounds – Release Notes
 
 <section>
 
+## 1.0.0
+
+- Initial public release 🚀🎉.
+
 ## 0.7.0
 
 - Updated Arena to the latest version.
