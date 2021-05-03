@@ -1,3 +1,47 @@
+:root {
+  --page-text: #000000;
+  --page-background: #ffffff;
+  --header-background: #111930;
+  --header-text: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page-text: #ffffff;
+    --page-background: #070710;
+  }
+}
+
 body {
-  background-color: red;
+  color: var(--page-text);
+  background-color: var(--page-background);
+  font-family: -apple-system, 'BlinkMacSystemFont', 'SF Hello', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial',
+    sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+  font-size: 16px;
+  line-height: 1.4;
+  margin: 0;
+}
+
+section {
+  padding: 0 10px;
+}
+
+h1 {
+  display: block;
+  padding: 15px;
+  color: var(--header-text);
+  background-color: var(--header-background);
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 17px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+ul {
+  padding-left: 25px;
 }
