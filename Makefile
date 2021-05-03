@@ -11,7 +11,8 @@ zip:
 	@diff $(APP_BUNDLE).zip releases/SPI-Playgrounds-$(VERSION).app.zip
 
 release-notes:
-	@cp release-notes.html releases/SPI-Playgrounds-$(VERSION).app.html
+	@docker run --rm -it -v "$(PWD)":/host -w /host pandoc/alpine release-notes.md -s --self-contained -f markdown -t html5 -c release-notes.css -o release-notes.html
+	@#cp release-notes.html releases/SPI-Playgrounds-$(VERSION).app.html
 
 appcast:
 	@# -f parameter doesn't work (SecItemImport error -25257)
