@@ -12,13 +12,15 @@ zip:
 	@diff $(APP_ZIP) releases/SPI-Playgrounds-$(VERSION).app.zip
 
 release-notes:
-	@cp release-notes.html releases/SPI-Playgrounds-$(VERSION).app.html
+	@docker run --rm -it -v "$(PWD)":/host -w /host pandoc/alpine release-notes.md -s --self-contained -f markdown -t html5 -c release-notes.css \
+		-o releases/SPI-Playgrounds-$(VERSION).app.html
 
-appcast:
+appcast: release-notes
 	@# -f parameter doesn't work (SecItemImport error -25257)
 	@# use workaround via -s
 	@./sparkle/generate_appcast \
 		-s $(shell cat ./key/spi-playgrounds-sparkle-pkey.ed25519) \
+			--release-notes-url-prefix "https://spi-playgrounds-updates.swiftpackageindex.com/releases/" \
 		--download-url-prefix "https://spi-playgrounds-updates.swiftpackageindex.com/releases/" \
 		./releases/
 
@@ -26,4 +28,4 @@ commit:
 	git add --all
 	git commit -m "Release $(VERSION)"
 
-release: zip release-notes appcast commit
+release: zip appcast commit

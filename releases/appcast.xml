@@ -645,6 +645,7 @@
                 <enclosure url="https://spi-playgrounds-updates.swiftpackageindex.com/releases/SPI%20Playgrounds189-169.delta" sparkle:version="189" sparkle:shortVersionString="1.0.0" sparkle:deltaFrom="169" length="5639173" type="application/octet-stream" sparkle:edSignature="7uLhWAqtBDBaQkZWtjij1Bdef21+gA8HyHtqnCOnjOfpoHxz0RC8JcJzLUgx4qYB4E+6DKSZQgNl/8OjsavQDA=="/>
                 <enclosure url="https://spi-playgrounds-updates.swiftpackageindex.com/releases/SPI%20Playgrounds189-167.delta" sparkle:version="189" sparkle:shortVersionString="1.0.0" sparkle:deltaFrom="167" length="5637375" type="application/octet-stream" sparkle:edSignature="oMnFPtk1+8oa39djJ1eohOJt5UB3RTLYFamG4FTtke3rrsWu+Cg3+s4taFEFXKiLsQuX+3b4cOAiBep/fB7aBg=="/>
             </sparkle:deltas>
+            <sparkle:releaseNotesLink>https://spi-playgrounds-updates.swiftpackageindex.com/releases/SPI-Playgrounds-1.0.0.app.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
