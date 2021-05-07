@@ -4,6 +4,11 @@ title: SPI Playgrounds – Release Notes
 
 <section>
 
+## 1.0.1
+
+- Now excluding "internal" libraries (prefixed with "_") from list of imports.
+- Changed filenames of Xcode workspace and playground file.
+
 ## 1.0.0
 
 - Initial public release! 🚀🎉
