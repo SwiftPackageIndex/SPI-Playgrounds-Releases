@@ -4,6 +4,12 @@ title: SPI Playgrounds – Release Notes
 
 <section>
 
+## 1.1.0
+
+- Added: Support for macCatalyst platform
+- Fixed: Failed to create playground for packages with plugin products ([Arena issue #87](https://github.com/finestructure/Arena/issues/87))
+- Fixed: Deprecation warnings in generated package manifests
+
 ## 1.0.1
 
 - Now excluding "internal" libraries (prefixed with "_") from list of imports.
