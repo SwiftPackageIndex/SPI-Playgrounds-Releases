@@ -4,6 +4,10 @@ title: SPI Playgrounds – Release Notes
 
 <section>
 
+## 1.1.1
+
+- Fixed: Playgrounds for some packages were generated with an invalid `.product(...)` clause ([Details](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server/issues/2541))
+
 ## 1.1.0
 
 - Added: Support for macCatalyst platform
