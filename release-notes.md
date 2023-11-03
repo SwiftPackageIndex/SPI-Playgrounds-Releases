@@ -4,6 +4,10 @@ title: SPI Playgrounds – Release Notes
 
 <section>
 
+## 1.1.2
+
+- Fixed: [Pointfree.co's Dependencies package](https://github.com/pointfreeco/swift-dependencies) could not be run in a playground due to an internal naming conflict ([Arena issue #96](https://github.com/finestructure/Arena/issues/96)).
+
 ## 1.1.1
 
 - Fixed: Playgrounds for some packages were generated with an invalid `.product(...)` clause ([Details](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server/issues/2541))
