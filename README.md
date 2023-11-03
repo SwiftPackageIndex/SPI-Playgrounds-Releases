@@ -2,9 +2,7 @@
 
 - Tag
 - Archive
-- In Organizer: "Distribute App" -> "Developer ID" -> "Upload"
-- Choose "Default (Developer ID Application)" and "SPI Playgrounds (Apr 21, 2026 cert)" certificates
-- -> "Next" -> "Upload"
+- In Organizer: "Distribute App" -> "Direct Distribution"
 - After notarization → "Export Notarized App" and place it _at the top level_ of this repository
 - Update `release-notes.md`
 - Run `make release VERSION=x.y.z` which
