@@ -4,6 +4,10 @@ title: SPI Playgrounds – Release Notes
 
 <section>
 
+## 1.1.3
+
+- Added support for packages which reference `visionOS` as a platform in their package manifest ([Arena issue #98](https://github.com/finestructure/Arena/issues/)).
+
 ## 1.1.2
 
 - Fixed: [Pointfree.co's Dependencies package](https://github.com/pointfreeco/swift-dependencies) could not be run in a playground due to an internal naming conflict ([Arena issue #96](https://github.com/finestructure/Arena/issues/96)).
